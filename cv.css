@@ -118,7 +118,7 @@ span{
     position: relative;
 }
 .typing-text span::before{
-    content: "chill guy really";
+    content: "chill guy ";
     color: #b74b4b;
     animation: words 20s infinite;  
 }
